@@ -40,8 +40,8 @@ _Note: If you are unable to reach any of the above applications due to issues wi
 
 If you are experiencing an issue with the above, there are two ways to open up a ticket with the Client Response Center.
 
-First, [you can open a ticket through the support site.](https://managedservices.ctl.io/msp/support/request)
-If you are not familiar with how to do this, [this video will step you through the process.](https://www.youtube.com/watch?v=CWauPgOe4Jg)
+First, [you can open a ticket through the support site.](https://managedservices.ctl.io/msp/support/request).  This will require that you log in with your master account and have at least one linked account.
+For assistance with creating a ticket, [this video will step you through the process.](https://www.youtube.com/watch?v=CWauPgOe4Jg)
 
 Alternatively, if the issue you are facing doesn't allow you to open a ticket, you can send an email to incident@centurylink.com.  In the email, please provide details about what you are trying to accomplish and what error you are receiving.  You can also include screenshots of the error you are receiving in this email.  
 
